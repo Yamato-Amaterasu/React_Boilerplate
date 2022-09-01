@@ -4,8 +4,8 @@
   "description": "BoilerPlate",
   "main": "index.js",
   "scripts": {
-    "start":"webpack serve",
-    "build":"webpack"
+    "start": "webpack serve",
+    "build": "webpack"
   },
   "author": "Steven Hulse",
   "license": "ISC",
@@ -17,5 +17,9 @@
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0",
     "webpack-dev-server": "^4.10.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
