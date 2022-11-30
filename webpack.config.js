@@ -5,6 +5,9 @@ module.exports = {
     path: __dirname + "/public",
     filename: "bundle.js",
   },
+  resolve: {
+    extensions: [".js", ".jsx"],
+  },
   context: __dirname,
   devtool: "source-map",
   devServer: {
