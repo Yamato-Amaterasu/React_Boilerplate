@@ -51,7 +51,7 @@ module.exports = {
 - Us the shortcut " ! " to create a basic html outline.
 - then on line 7 make a new line and type in the command " link:css " this will link to your style.css
 - Then place "<script type="text/javascript" src="/bundle.js"></script>" this Line of code below your body tag.
-- Add a div with the id of "app".
+- Add a div with the id of "app.
 
 ## Babel
 
